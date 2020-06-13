@@ -1,0 +1,2440 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Open Sans', serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+}
+
+.homePage3 {
+    display: block;
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    overflow-x: auto;
+    overflow-y: auto;
+    background-color: rgba(255, 255, 255, 1);
+    width: 1536.00px;
+    height: 5592.00px;
+    left: 0px;
+    top: 0px;
+}
+
+.homePage3 .rectangle270 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(43, 43, 43, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    -webkit-filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    width: 1536.00px;
+    height: 864.00px;
+    left: 0.00px;
+    top: 0.00px;
+}
+
+.homePage3 .image20dab7791 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/image20dab7791.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.3400000035762787;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 402.00px;
+    height: 340.00px;
+    left: 343.00px;
+    top: 1.00px;
+}
+
+.homePage3 .image2 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/image2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.3400000035762787;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 402.00px;
+    height: 340.00px;
+    left: 785.00px;
+    top: 524.00px;
+}
+
+.homePage3 .rectangle3 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(30, 71, 205, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    -webkit-filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    width: 46.00px;
+    height: 42.00px;
+    left: 1432.00px;
+    top: 767.00px;
+}
+
+.homePage3 .path1 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: round;
+    width: 22.26px;
+    height: 18.21px;
+    left: 1444.00px;
+    top: 779.00px;
+}
+
+.homePage3 .path2 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: round;
+    width: 22.26px;
+    height: 9.09px;
+    left: 1444.00px;
+    top: 781.03px;
+}
+
+.homePage3 .iconAwesomeInstagram72eecc4b {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 55.00px;
+    top: 669.00px;
+}
+
+.homePage3 .iconAwesomeFacebook {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 55.00px;
+    top: 709.00px;
+}
+
+.homePage3 .iconAwesomeTwittera0cec6b1 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 54.96px;
+    top: 748.71px;
+}
+
+.homePage3 .iconAwesomeYoutube {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 55.40px;
+    top: 788.83px;
+}
+
+.homePage3 .iitPatnaBihtaBihar07681af7 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform: rotate(-90.00deg);
+    -webkit-transform: rotate(-90.00deg);
+    transform: rotate(-90.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.25999999046325684;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 21.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cairo, Arial;
+    white-space: pre;
+    width: 207.00px;
+    height: 39.00px;
+    left: -38.00px;
+    top: 413.00px;
+}
+
+.homePage3 .line19 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 32.00px;
+    height: 3.00px;
+    left: 1479.50px;
+    top: 32.00px;
+}
+
+.homePage3 .line20 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 21.00px;
+    height: 3.00px;
+    left: 1490.50px;
+    top: 40.00px;
+}
+
+.homePage3 .line21 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 10.00px;
+    height: 3.00px;
+    left: 1501.50px;
+    top: 48.00px;
+}
+
+.homePage3 .rectangle4 {
+    position: absolute;
+    box-sizing: border-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(43, 43, 43, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-style: solid;
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-style: solid;
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-style: solid;
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-style: solid;
+    border-top-width: 1.00px;
+    width: 336.00px;
+    height: 264.00px;
+    left: 265.00px;
+    top: 301.00px;
+}
+
+.homePage3 .path3 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: round;
+    width: 44.31px;
+    height: 33.86px;
+    left: 279.59px;
+    top: 317.79px;
+}
+
+.homePage3 .path4 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: round;
+    width: 16.45px;
+    height: 16.45px;
+    left: 293.52px;
+    top: 326.49px;
+}
+
+.homePage3 .content1 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 24.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 207.00px;
+    height: 32.00px;
+    left: 351.00px;
+    top: 319.00px;
+}
+
+.homePage3 .line15c0362e49 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 28.58px;
+    height: 3.00px;
+    left: 287.35px;
+    top: 377.55px;
+}
+
+.homePage3 .line16042facfd {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 28.58px;
+    height: 3.00px;
+    left: 287.35px;
+    top: 377.55px;
+}
+
+.homePage3 .line17e13a7985 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 28.58px;
+    height: 3.00px;
+    left: 287.35px;
+    top: 528.89px;
+}
+
+.homePage3 .line18a0833b23 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 1.00px;
+    height: 151.34px;
+    left: 301.51px;
+    top: 379.05px;
+}
+
+.homePage3 .rectangle23 {
+    position: absolute;
+    box-sizing: border-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(43, 43, 43, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-style: solid;
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-style: solid;
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-style: solid;
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-style: solid;
+    border-top-width: 1.00px;
+    width: 335.00px;
+    height: 264.00px;
+    left: 601.00px;
+    top: 301.00px;
+}
+
+.homePage3 .rectangle24 {
+    position: absolute;
+    box-sizing: border-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(43, 43, 43, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-style: solid;
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-style: solid;
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-style: solid;
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-style: solid;
+    border-top-width: 1.00px;
+    width: 336.00px;
+    height: 264.00px;
+    left: 936.00px;
+    top: 301.00px;
+}
+
+.homePage3 .content2 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 24.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 207.00px;
+    height: 32.00px;
+    left: 696.00px;
+    top: 319.00px;
+}
+
+.homePage3 .line156237a24c {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 28.58px;
+    height: 3.00px;
+    left: 632.53px;
+    top: 377.55px;
+}
+
+.homePage3 .line162f7572c4 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 28.58px;
+    height: 3.00px;
+    left: 632.53px;
+    top: 377.55px;
+}
+
+.homePage3 .line1714102256 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 28.58px;
+    height: 3.00px;
+    left: 632.53px;
+    top: 528.89px;
+}
+
+.homePage3 .line18257cff6e {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 1.00px;
+    height: 151.34px;
+    left: 646.69px;
+    top: 379.05px;
+}
+
+.homePage3 .content3 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 24.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 207.00px;
+    height: 32.00px;
+    left: 1023.00px;
+    top: 319.00px;
+}
+
+.homePage3 .line15 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 28.58px;
+    height: 3.00px;
+    left: 959.39px;
+    top: 377.55px;
+}
+
+.homePage3 .line16 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 28.58px;
+    height: 3.00px;
+    left: 959.39px;
+    top: 377.55px;
+}
+
+.homePage3 .line17 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 28.58px;
+    height: 3.00px;
+    left: 959.39px;
+    top: 528.89px;
+}
+
+.homePage3 .line18 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 1.00px;
+    height: 151.34px;
+    left: 973.55px;
+    top: 379.05px;
+}
+
+.homePage3 .iconIonicMdPerson {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.5899999737739563;
+    cursor: default;
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 34.88px;
+    height: 34.88px;
+    left: 632.10px;
+    top: 318.89px;
+}
+
+.homePage3 .iconOpenProject {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.5899999737739563;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 45.44px;
+    height: 39.76px;
+    left: 959.39px;
+    top: 318.77px;
+}
+
+.homePage3 .content4 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    width: 218.00px;
+    height: 130.00px;
+    left: 340.00px;
+    top: 390.00px;
+}
+
+.homePage3 .content5 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    width: 218.00px;
+    height: 130.00px;
+    left: 681.00px;
+    top: 390.00px;
+}
+
+.homePage3 .content6 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    width: 218.00px;
+    height: 130.00px;
+    left: 1015.00px;
+    top: 390.00px;
+}
+
+.homePage3 .rectangle30 {
+    position: absolute;
+    box-sizing: border-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/rectangle30.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.3100000023841858;
+    cursor: default;
+    background-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-style: solid;
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-style: solid;
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-style: solid;
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-style: solid;
+    border-top-width: 1.00px;
+    border-top-left-radius: 19.00px;
+    border-top-right-radius: 19.00px;
+    border-bottom-left-radius: 19.00px;
+    border-bottom-right-radius: 19.00px;
+    width: 228.00px;
+    height: 78.00px;
+    left: 275.00px;
+    top: 679.00px;
+}
+
+.homePage3 .viewMore {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 26.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 127.00px;
+    height: 35.00px;
+    left: 326.00px;
+    top: 701.00px;
+}
+
+.homePage3 .rectangle272 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(241, 249, 254, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 1536.00px;
+    height: 864.00px;
+    left: 0.00px;
+    top: 864.00px;
+}
+
+.homePage3 .x2kids1adultv03 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/x2kids1adultv03.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 663.00px;
+    height: 497.00px;
+    left: 815.00px;
+    top: 1024.00px;
+}
+
+.homePage3 .whatDoWeDo {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(43, 43, 43, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 37.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Muli, Arial;
+    white-space: pre;
+    width: 312.00px;
+    height: 46.00px;
+    left: 145.00px;
+    top: 1164.00px;
+}
+
+.homePage3 .content7 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    width: 481.00px;
+    height: 215.00px;
+    left: 145.00px;
+    top: 1257.00px;
+}
+
+.homePage3 .content8 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    width: 689.00px;
+    height: 181.00px;
+    left: 829.00px;
+    top: 1454.00px;
+}
+
+.homePage3 .njack59daeb6e {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.07000000029802322;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(43, 43, 43, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 147.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Muli, Arial;
+    white-space: pre;
+    width: 495.00px;
+    height: 185.00px;
+    left: 538.00px;
+    top: 882.00px;
+}
+
+.homePage3 .aboutUse904c40d {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(43, 43, 43, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 56.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Muli, Arial;
+    white-space: pre;
+    width: 259.00px;
+    height: 70.00px;
+    left: 656.00px;
+    top: 940.00px;
+}
+
+.homePage3 .aboutUs {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(43, 43, 43, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 56.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Muli, Arial;
+    white-space: pre;
+    width: 259.00px;
+    height: 70.00px;
+    left: 656.00px;
+    top: 940.00px;
+}
+
+.homePage3 .rectangle273 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(0, 0, 0, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 1536.00px;
+    height: 1679.00px;
+    left: 0.00px;
+    top: 1728.00px;
+}
+
+.homePage3 .image8 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/image8.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 659.00px;
+    height: 330.00px;
+    left: 117.00px;
+    top: 1931.00px;
+}
+
+.homePage3 .nwoc059d575f {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 61.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 190.00px;
+    height: 81.00px;
+    left: 1008.00px;
+    top: 1834.00px;
+}
+
+.homePage3 .content9 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    width: 608.00px;
+    height: 299.00px;
+    left: 784.00px;
+    top: 1980.00px;
+}
+
+.homePage3 .rectangle274 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(18, 111, 178, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 15.00px;
+    border-top-right-radius: 15.00px;
+    border-bottom-left-radius: 15.00px;
+    border-bottom-right-radius: 15.00px;
+    width: 209.00px;
+    height: 71.00px;
+    left: 834.00px;
+    top: 2330.00px;
+}
+
+.homePage3 .openNwoc {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 28.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 168.00px;
+    height: 37.00px;
+    left: 855.00px;
+    top: 2347.00px;
+}
+
+.homePage3 .rectangle275 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(18, 111, 178, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 15.00px;
+    border-top-right-radius: 15.00px;
+    border-bottom-left-radius: 15.00px;
+    border-bottom-right-radius: 15.00px;
+    width: 209.00px;
+    height: 71.00px;
+    left: 1131.00px;
+    top: 2330.00px;
+}
+
+.homePage3 .gallery {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 27.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 90.00px;
+    height: 36.00px;
+    left: 1189.00px;
+    top: 2347.00px;
+}
+
+.homePage3 .aperion28b71c6c {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 61.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 221.00px;
+    height: 81.00px;
+    left: 314.00px;
+    top: 2635.00px;
+}
+
+.homePage3 .line68 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 1324.00px;
+    height: 1.00px;
+    left: 134.50px;
+    top: 2535.00px;
+}
+
+.homePage3 .image9 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/image9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 589.00px;
+    height: 393.00px;
+    left: 847.00px;
+    top: 2731.00px;
+}
+
+.homePage3 .content10 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    width: 556.00px;
+    height: 339.00px;
+    left: 160.00px;
+    top: 2815.00px;
+}
+
+.homePage3 .rectangle276 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(18, 111, 178, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 15.00px;
+    border-top-right-radius: 15.00px;
+    border-bottom-left-radius: 15.00px;
+    border-bottom-right-radius: 15.00px;
+    width: 209.00px;
+    height: 71.00px;
+    left: 320.00px;
+    top: 3142.00px;
+}
+
+.homePage3 .seeMore {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 27.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 120.00px;
+    height: 36.00px;
+    left: 363.00px;
+    top: 3159.00px;
+}
+
+.homePage3 .gsocResults {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 49.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 460.00px;
+    height: 65.00px;
+    left: 525.00px;
+    top: 3483.00px;
+}
+
+.homePage3 .ellipse495f98a28d {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 205.00px;
+    height: 205.00px;
+    left: 231.00px;
+    top: 3657.00px;
+}
+
+.homePage3 .daniel06e3fae3 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 39.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 116.00px;
+    height: 52.00px;
+    left: 504.00px;
+    top: 3647.00px;
+}
+
+.homePage3 .iconAwesomeGithub1b04ad93 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 29.18px;
+    height: 28.45px;
+    left: 492.84px;
+    top: 3731.39px;
+}
+
+.homePage3 .iconAwesomeInstagram01b125bd {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 28.26px;
+    height: 28.26px;
+    left: 546.09px;
+    top: 3731.58px;
+}
+
+.homePage3 .iconAwesomeTwitter7f4b84ed {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 34.66px;
+    height: 28.15px;
+    left: 598.35px;
+    top: 3731.69px;
+}
+
+.homePage3 .rectangle277 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(18, 111, 178, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 25.00px;
+    border-top-right-radius: 25.00px;
+    border-bottom-left-radius: 25.00px;
+    border-bottom-right-radius: 25.00px;
+    width: 206.00px;
+    height: 78.00px;
+    left: 460.00px;
+    top: 3791.00px;
+}
+
+.homePage3 .seeProjectde57bf65 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 156.00px;
+    height: 40.00px;
+    left: 483.00px;
+    top: 3809.00px;
+}
+
+.homePage3 .ellipse4980f4582a {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 205.00px;
+    height: 205.00px;
+    left: 231.00px;
+    top: 4044.00px;
+}
+
+.homePage3 .daniel81edf3bc {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 39.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 116.00px;
+    height: 52.00px;
+    left: 504.00px;
+    top: 4034.00px;
+}
+
+.homePage3 .iconAwesomeGithub42b3709e {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 29.17px;
+    height: 28.45px;
+    left: 492.79px;
+    top: 4118.37px;
+}
+
+.homePage3 .iconAwesomeInstagram39f3d74d {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 28.26px;
+    height: 28.25px;
+    left: 546.02px;
+    top: 4118.56px;
+}
+
+.homePage3 .iconAwesomeTwitter46c60f94 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 34.65px;
+    height: 28.14px;
+    left: 598.28px;
+    top: 4118.67px;
+}
+
+.homePage3 .rectangle278 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(18, 111, 178, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 25.00px;
+    border-top-right-radius: 25.00px;
+    border-bottom-left-radius: 25.00px;
+    border-bottom-right-radius: 25.00px;
+    width: 207.00px;
+    height: 77.00px;
+    left: 459.00px;
+    top: 4179.00px;
+}
+
+.homePage3 .seeProjectc93968ca {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 156.00px;
+    height: 40.00px;
+    left: 483.00px;
+    top: 4197.00px;
+}
+
+.homePage3 .ellipse497407ecc9 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 201.00px;
+    height: 201.00px;
+    left: 853.00px;
+    top: 3661.00px;
+}
+
+.homePage3 .danielef576953 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 39.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 116.00px;
+    height: 52.00px;
+    left: 1120.00px;
+    top: 3651.00px;
+}
+
+.homePage3 .iconAwesomeGithub7fdfc903 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 28.60px;
+    height: 27.89px;
+    left: 1109.65px;
+    top: 3733.72px;
+}
+
+.homePage3 .iconAwesomeInstagram106c171e {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 27.70px;
+    height: 27.70px;
+    left: 1161.84px;
+    top: 3733.91px;
+}
+
+.homePage3 .iconAwesomeTwitterbcc34943 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 33.97px;
+    height: 27.59px;
+    left: 1213.07px;
+    top: 3734.01px;
+}
+
+.homePage3 .rectangle279 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(18, 111, 178, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 25.00px;
+    border-top-right-radius: 25.00px;
+    border-bottom-left-radius: 25.00px;
+    border-bottom-right-radius: 25.00px;
+    width: 203.00px;
+    height: 77.00px;
+    left: 1077.00px;
+    top: 3792.00px;
+}
+
+.homePage3 .seeProject24a412c4 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 156.00px;
+    height: 40.00px;
+    left: 1100.00px;
+    top: 3810.00px;
+}
+
+.homePage3 .ellipse49 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 201.00px;
+    height: 202.00px;
+    left: 853.00px;
+    top: 4044.00px;
+}
+
+.homePage3 .daniel {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 37.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 110.00px;
+    height: 49.00px;
+    left: 1120.00px;
+    top: 4034.00px;
+}
+
+.homePage3 .iconAwesomeGithubacc8f64d {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 28.62px;
+    height: 27.91px;
+    left: 1109.82px;
+    top: 4116.77px;
+}
+
+.homePage3 .iconAwesomeInstagramd19a0ef0 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 27.72px;
+    height: 27.72px;
+    left: 1162.04px;
+    top: 4116.96px;
+}
+
+.homePage3 .iconAwesomeTwitter65649641 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 34.00px;
+    height: 27.61px;
+    left: 1213.31px;
+    top: 4117.07px;
+}
+
+.homePage3 .rectangle280 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(18, 111, 178, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 25.00px;
+    border-top-right-radius: 25.00px;
+    border-bottom-left-radius: 25.00px;
+    border-bottom-right-radius: 25.00px;
+    width: 202.00px;
+    height: 76.00px;
+    left: 1078.00px;
+    top: 4176.00px;
+}
+
+.homePage3 .seeProject {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 156.00px;
+    height: 40.00px;
+    left: 1100.00px;
+    top: 4194.00px;
+}
+
+.homePage3 .rectangle285 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(0, 0, 0, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 1536.00px;
+    height: 831.00px;
+    left: 0.00px;
+    top: 4355.00px;
+}
+
+.homePage3 .collaborations {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 63.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 430.00px;
+    height: 84.00px;
+    left: 568.00px;
+    top: 4402.00px;
+}
+
+.homePage3 .image12 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/image12.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 271.00px;
+    height: 271.00px;
+    left: 209.00px;
+    top: 4671.00px;
+}
+
+.homePage3 .image11 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/image11.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 271.00px;
+    height: 271.00px;
+    left: 651.00px;
+    top: 4671.00px;
+}
+
+.homePage3 .image13 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/image13.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 271.00px;
+    height: 271.00px;
+    left: 1093.00px;
+    top: 4671.00px;
+}
+
+.homePage3 .upcomingEvents {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.5099999904632568;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 35.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 276.00px;
+    height: 47.00px;
+    left: 144.00px;
+    top: 5251.00px;
+}
+
+.homePage3 .nwoc {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.49000000953674316;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 35.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 118.00px;
+    height: 47.00px;
+    left: 145.00px;
+    top: 5325.00px;
+}
+
+.homePage3 .line69 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 175.00px;
+    height: 1.00px;
+    left: 144.50px;
+    top: 5383.00px;
+}
+
+.homePage3 .aperion {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.49000000953674316;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 35.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 126.00px;
+    height: 47.00px;
+    left: 146.00px;
+    top: 5401.00px;
+}
+
+.homePage3 .line70 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 164.00px;
+    height: 1.00px;
+    left: 145.50px;
+    top: 5465.00px;
+}
+
+.homePage3 .codesprint {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.49000000953674316;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 35.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 174.00px;
+    height: 47.00px;
+    left: 145.00px;
+    top: 5477.00px;
+}
+
+.homePage3 .line71 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 220.00px;
+    height: 1.00px;
+    left: 146.50px;
+    top: 5534.00px;
+}
+
+.homePage3 .njack2a23728d {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.49000000953674316;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 91.00px;
+    height: 40.00px;
+    left: 1121.00px;
+    top: 5246.00px;
+}
+
+.homePage3 .content11 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    width: 491.00px;
+    height: 181.00px;
+    left: 932.00px;
+    top: 5308.00px;
+}
+
+.homePage3 .iconAwesomeGithub {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 37.00px;
+    height: 36.08px;
+    left: 1081.00px;
+    top: 5520.00px;
+}
+
+.homePage3 .iconAwesomeInstagram {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 35.84px;
+    height: 35.83px;
+    left: 1148.51px;
+    top: 5520.25px;
+}
+
+.homePage3 .iconAwesomeTwitter {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 43.95px;
+    height: 35.69px;
+    left: 1214.78px;
+    top: 5520.38px;
+}
+
+.homePage3 .contactUs {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 148.00px;
+    height: 40.00px;
+    left: 581.00px;
+    top: 5251.00px;
+}
+
+.homePage3 .iconMaterialLocationOn {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 21.00px;
+    height: 30.00px;
+    left: 581.00px;
+    top: 5338.00px;
+}
+
+.homePage3 .iitPatnaBihtaBihar {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.44999998807907104;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 20.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 104.00px;
+    height: 54.00px;
+    left: 625.00px;
+    top: 5325.00px;
+}
+
+.homePage3 .iconFeatherPhoneCall {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 2.00px;
+    stroke-linecap: round;
+    width: 29.89px;
+    height: 29.47px;
+    left: 581.00px;
+    top: 5411.00px;
+}
+
+.homePage3 .x9999999999 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.44999998807907104;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 20.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 112.00px;
+    height: 27.00px;
+    left: 627.00px;
+    top: 5413.00px;
+}
+
+.homePage3 .iconAwesomeLocationArrow {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 31.89px;
+    height: 31.89px;
+    left: 583.00px;
+    top: 5476.00px;
+}
+
+.homePage3 .njack {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.44999998807907104;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 20.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 142.00px;
+    height: 27.00px;
+    left: 627.00px;
+    top: 5474.00px;
+}

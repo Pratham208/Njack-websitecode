@@ -1,0 +1,562 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Open Sans', serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+}
+
+.navigation {
+    display: block;
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    overflow-x: auto;
+    overflow-y: auto;
+    background-color: transparent;
+    width: 131.00px;
+    height: 864.00px;
+    left: 0px;
+    top: 0px;
+}
+
+.navigation .rectangle7 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(76, 188, 169, 0.7686274509803922);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 26.00px;
+    border-top-right-radius: 0.00px;
+    border-bottom-left-radius: 0.00px;
+    border-bottom-right-radius: 0.00px;
+    width: 97.00px;
+    height: 1080.00px;
+    left: 34.00px;
+    top: 0.00px;
+}
+
+.navigation .line22 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 5.00px;
+    stroke-linecap: butt;
+    width: 22.79px;
+    height: 25.03px;
+    left: 72.62px;
+    top: 20.85px;
+}
+
+.navigation .line23 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 5.00px;
+    stroke-linecap: butt;
+    width: 10.63px;
+    height: 11.35px;
+    left: 72.58px;
+    top: 20.90px;
+}
+
+.navigation .line24 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 5.00px;
+    stroke-linecap: butt;
+    width: 10.63px;
+    height: 11.35px;
+    left: 84.81px;
+    top: 34.49px;
+}
+
+.navigation .ellipse10b347092 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.15000000596046448;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    -webkit-filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    width: 49.00px;
+    height: 49.00px;
+    left: 59.00px;
+    top: 87.00px;
+}
+
+.navigation .ellipse5d3d66650 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.25;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 39.00px;
+    height: 39.00px;
+    left: 64.00px;
+    top: 92.00px;
+}
+
+.navigation .ellipse6903b05a3 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.6100000143051147;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 25.00px;
+    height: 25.00px;
+    left: 71.00px;
+    top: 99.00px;
+}
+
+.navigation .iconMaterialHome {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(51, 93, 86, 1);
+    width: 14.12px;
+    height: 12.00px;
+    left: 76.00px;
+    top: 105.00px;
+}
+
+.navigation .ellipse1e9caf90d {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.15000000596046448;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    -webkit-filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    width: 49.00px;
+    height: 49.00px;
+    left: 58.00px;
+    top: 179.00px;
+}
+
+.navigation .ellipse540840b7e {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.25;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 39.00px;
+    height: 39.00px;
+    left: 63.00px;
+    top: 184.00px;
+}
+
+.navigation .ellipse6b7c51caa {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.6100000143051147;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 25.00px;
+    height: 25.00px;
+    left: 70.00px;
+    top: 191.00px;
+}
+
+.navigation .ellipse7 {
+    position: absolute;
+    box-sizing: border-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(51, 93, 86, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 12.00px;
+    height: 12.00px;
+    left: 77.00px;
+    top: 198.00px;
+}
+
+.navigation .i {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(51, 93, 86, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 8.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Muli, Arial;
+    white-space: pre;
+    width: 2.00px;
+    height: 10.00px;
+    left: 82.00px;
+    top: 199.00px;
+}
+
+.navigation .ellipse142ce8ccb {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.15000000596046448;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    -webkit-filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    width: 49.00px;
+    height: 49.00px;
+    left: 59.00px;
+    top: 269.00px;
+}
+
+.navigation .ellipse5ed3931b9 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.25;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 39.00px;
+    height: 39.00px;
+    left: 64.00px;
+    top: 274.00px;
+}
+
+.navigation .ellipse6efa34fff {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.6100000143051147;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 25.00px;
+    height: 25.00px;
+    left: 71.00px;
+    top: 281.00px;
+}
+
+.navigation .iconMaterialEvent {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(51, 93, 86, 1);
+    width: 12.00px;
+    height: 13.33px;
+    left: 77.50px;
+    top: 286.50px;
+}
+
+.navigation .ellipse1a4414870 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.15000000596046448;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    -webkit-filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    width: 49.00px;
+    height: 49.00px;
+    left: 58.00px;
+    top: 361.00px;
+}
+
+.navigation .ellipse543c0947d {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.25;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 39.00px;
+    height: 39.00px;
+    left: 63.00px;
+    top: 366.00px;
+}
+
+.navigation .ellipse60c329566 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.6100000143051147;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 25.00px;
+    height: 25.00px;
+    left: 70.00px;
+    top: 373.00px;
+}
+
+.navigation .iconMaterialContacts {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(51, 93, 86, 1);
+    width: 11.71px;
+    height: 14.05px;
+    left: 77.00px;
+    top: 378.00px;
+}
+
+.navigation .ellipse1 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.15000000596046448;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    -webkit-filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    width: 49.00px;
+    height: 49.00px;
+    left: 59.00px;
+    top: 459.00px;
+}
+
+.navigation .ellipse5 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.25;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 39.00px;
+    height: 39.00px;
+    left: 64.00px;
+    top: 464.00px;
+}
+
+.navigation .ellipse6 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.6100000143051147;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 25.00px;
+    height: 25.00px;
+    left: 71.00px;
+    top: 471.00px;
+}
+
+.navigation .iconIonicMdPeople {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(51, 93, 86, 1);
+    width: 18.47px;
+    height: 11.87px;
+    left: 74.45px;
+    top: 476.38px;
+}
+
+.navigation .home {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 15.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 42.00px;
+    height: 20.00px;
+    left: 62.00px;
+    top: 140.00px;
+}
+
+.navigation .event {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 15.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 38.00px;
+    height: 20.00px;
+    left: 64.00px;
+    top: 322.00px;
+}
+
+.navigation .about {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 15.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 42.00px;
+    height: 20.00px;
+    left: 63.00px;
+    top: 232.00px;
+}
+
+.navigation .contact {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 15.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 52.00px;
+    height: 20.00px;
+    left: 59.00px;
+    top: 414.00px;
+}
+
+.navigation .team {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 15.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 36.00px;
+    height: 20.00px;
+    left: 64.00px;
+    top: 512.00px;
+}

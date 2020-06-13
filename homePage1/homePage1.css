@@ -1,0 +1,565 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Open Sans', serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+
+.homePage1 {
+    display: block;
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    overflow-x: auto;
+    overflow-y: auto;
+    background-color: rgba(255, 255, 255, 1);
+    width: 1536.00px;
+    height: 864.00px;
+    left: 0px;
+    top: 0px;
+}
+
+.homePage1 .about {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cairo, Arial;
+    white-space: pre;
+    width: 78.00px;
+    height: 56.00px;
+    left: 792.00px;
+    top: 23.00px;
+}
+
+.homePage1 .events {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cairo, Arial;
+    white-space: pre;
+    width: 88.00px;
+    height: 56.00px;
+    left: 920.00px;
+    top: 23.00px;
+}
+
+.homePage1 .nwoc {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cairo, Arial;
+    white-space: pre;
+    width: 85.00px;
+    height: 56.00px;
+    left: 1058.00px;
+    top: 23.00px;
+}
+
+.homePage1 .clubs {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cairo, Arial;
+    white-space: pre;
+    width: 71.00px;
+    height: 56.00px;
+    left: 1193.00px;
+    top: 23.00px;
+}
+
+.homePage1 .contact {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cairo, Arial;
+    white-space: pre;
+    width: 99.00px;
+    height: 56.00px;
+    left: 1314.00px;
+    top: 23.00px;
+}
+
+.homePage1 .iconIonicIosSearch {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 27.00px;
+    height: 27.01px;
+    left: 1463.00px;
+    top: 37.00px;
+}
+
+.homePage1 .iconAwesomeInstagram {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 55.00px;
+    top: 669.00px;
+}
+
+.homePage1 .iconAwesomeFacebook {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 55.00px;
+    top: 709.00px;
+}
+
+.homePage1 .iconAwesomeTwitter {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 54.96px;
+    top: 748.71px;
+}
+
+.homePage1 .iconAwesomeYoutube {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 55.40px;
+    top: 788.83px;
+}
+
+.homePage1 .iitPatnaBihtaBihar {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform: rotate(-90.00deg);
+    -webkit-transform: rotate(-90.00deg);
+    transform: rotate(-90.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.25999999046325684;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 21.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cairo, Arial;
+    white-space: pre;
+    width: 207.00px;
+    height: 39.00px;
+    left: -38.00px;
+    top: 413.00px;
+}
+
+.homePage1 .rectangle3 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(30, 71, 205, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-style: none;
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-style: none;
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-style: none;
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-style: none;
+    border-top-width: 1.00px;
+    -webkit-filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    width: 46.00px;
+    height: 42.00px;
+    left: 1432.00px;
+    top: 767.00px;
+}
+
+.homePage1 .path1 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: round;
+    width: 22.26px;
+    height: 18.21px;
+    left: 1444.00px;
+    top: 779.00px;
+}
+
+.homePage1 .path2 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: round;
+    width: 22.26px;
+    height: 9.09px;
+    left: 1444.00px;
+    top: 781.03px;
+}
+
+.homePage1 .image1 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/image1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-style: none;
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-style: none;
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-style: none;
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-style: none;
+    border-top-width: 1.00px;
+    width: 279.00px;
+    height: 147.72px;
+    left: 26.00px;
+    top: 23.00px;
+}
+
+.homePage1 .rectangle271 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(43, 43, 43, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-style: none;
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-style: none;
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-style: none;
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-style: none;
+    border-top-width: 1.00px;
+    -webkit-filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.1607843137254902));
+    width: 988.00px;
+    height: 482.00px;
+    left: 274.00px;
+    top: 207.00px;
+}
+
+.homePage1 .njack {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform: rotate(-12.00deg);
+    -webkit-transform: rotate(-12.00deg);
+    transform: rotate(-12.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.05999999865889549;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 340.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cairo, Arial;
+    white-space: pre;
+    width: 926.00px;
+    height: 637.00px;
+    left: 313.00px;
+    top: 113.46px;
+}
+
+.homePage1 .programmingkit8Net {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/programmingkit8Net.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-style: none;
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-style: none;
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-style: none;
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-style: none;
+    border-top-width: 1.00px;
+    width: 395.00px;
+    height: 296.00px;
+    left: 811.00px;
+    top: 302.00px;
+}
+
+.homePage1 .notJustAnotherCodingClub {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 38.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cairo, Arial;
+    white-space: pre;
+    width: 475.00px;
+    height: 72.00px;
+    left: 305.00px;
+    top: 266.00px;
+}
+
+.homePage1 .maincontent {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(112, 112, 112, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    width: 358.00px;
+    height: 190.00px;
+    left: 441.00px;
+    top: 382.00px;
+}
+
+.homePage1 .line67 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 4.00px;
+    stroke-linecap: butt;
+    width: 57.00px;
+    height: 4.00px;
+    left: 362.50px;
+    top: 403.50px;
+}
+
+.homePage1 .tapToViewMore {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.550000011920929;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 20.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cairo, Arial;
+    white-space: pre;
+    width: 147.00px;
+    height: 37.00px;
+    left: 305.00px;
+    top: 638.00px;
+}
+
+.homePage1 .line6 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 11.47px;
+    height: 1.00px;
+    left: 459.50px;
+    top: 656.84px;
+}
+
+.homePage1 .line7 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 3.55px;
+    height: 2.83px;
+    left: 468.69px;
+    top: 655.08px;
+}
+
+.homePage1 .line8 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 3.55px;
+    height: 2.83px;
+    left: 468.69px;
+    top: 656.76px;
+}
