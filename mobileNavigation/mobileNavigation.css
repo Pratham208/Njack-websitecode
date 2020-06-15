@@ -1,0 +1,341 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Open Sans', serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+
+.mobileNavigation {
+    display: block;
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    overflow-x: auto;
+    overflow-y: auto;
+    background-color: rgba(0, 0, 0, 1);
+    width: 166.00px;
+    height: 896.00px;
+}
+
+.mobileNavigation .about {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 18.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 50.00px;
+    height: 24.00px;
+    left: 17.00px;
+    top: 75.00px;
+}
+
+.mobileNavigation .events {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 18.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 52.00px;
+    height: 24.00px;
+    left: 16.00px;
+    top: 129.00px;
+}
+
+.mobileNavigation .nwoc {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 18.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 56.00px;
+    height: 24.00px;
+    left: 15.00px;
+    top: 182.00px;
+}
+
+.mobileNavigation .team {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 18.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 44.00px;
+    height: 24.00px;
+    left: 15.00px;
+    top: 290.00px;
+}
+
+.mobileNavigation .clubs {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 18.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 44.00px;
+    height: 24.00px;
+    left: 15.00px;
+    top: 236.00px;
+}
+
+.mobileNavigation .iconAwesomeInstagram {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 63.00px;
+    top: 711.00px;
+}
+
+.mobileNavigation .iconAwesomeFacebook {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 63.00px;
+    top: 751.00px;
+}
+
+.mobileNavigation .iconAwesomeTwitter {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 62.96px;
+    top: 790.71px;
+}
+
+.mobileNavigation .iconAwesomeYoutube {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 1);
+    width: 20.00px;
+    height: 20.00px;
+    left: 63.40px;
+    top: 830.83px;
+}
+
+.mobileNavigation .line61 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 0.50px;
+    stroke-linecap: butt;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 162.00px;
+    height: 27.50px;
+    left: 5.50px;
+    top: 50.25px;
+}
+
+.mobileNavigation .line62 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 0.50px;
+    stroke-linecap: butt;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 162.00px;
+    height: 27.50px;
+    left: 5.50px;
+    top: 104.25px;
+}
+
+.mobileNavigation .line63 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 0.50px;
+    stroke-linecap: butt;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 162.00px;
+    height: 27.50px;
+    left: 5.50px;
+    top: 157.25px;
+}
+
+.mobileNavigation .line64 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 0.50px;
+    stroke-linecap: butt;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 162.00px;
+    height: 27.50px;
+    left: 5.50px;
+    top: 211.25px;
+}
+
+.mobileNavigation .line65 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 0.50px;
+    stroke-linecap: butt;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 162.00px;
+    height: 27.50px;
+    left: 2.50px;
+    top: 265.25px;
+}
+
+.mobileNavigation .home {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 18.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 50.00px;
+    height: 24.00px;
+    left: 15.00px;
+    top: 22.00px;
+}
+
+.mobileNavigation .line66 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 0.50px;
+    stroke-linecap: butt;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 162.00px;
+    height: 27.50px;
+    left: 2.50px;
+    top: 319.25px;
+}
