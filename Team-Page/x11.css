@@ -1,0 +1,2733 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Open Sans', serif;
+    height: 100%;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+}
+
+.x11 {
+    display: block;
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(247, 246, 251, 1);
+    width: 1516.00px;
+    height: 863.00px;
+    left: 0px;
+    top: 0px;
+}
+
+.x11 .rectangle78 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 226.00px;
+    height: 863.00px;
+    left: 0.00px;
+    top: 0.00px;
+}
+
+.x11 .rectangle79 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 287.00px;
+    height: 863.00px;
+    left: 1229.00px;
+    top: 0.00px;
+}
+
+.x11 .rectangle80 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 1003.00px;
+    height: 87.00px;
+    left: 226.00px;
+    top: 0.00px;
+}
+
+.x11 .image1 {
+    display: block;
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    overflow-x: unset;
+    overflow-y: unset;
+    background-color: transparent;
+    width: 133.38px;
+    height: 54.00px;
+    left: 37.63px;
+    top: 59.00px;
+}
+
+.x11 .iconMaterialHome {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(239, 102, 49, 1);
+    width: 28.00px;
+    height: 28.00px;
+    left: 32.50px;
+    top: 223.00px;
+}
+
+.x11 .home {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 21.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 58.00px;
+    height: 28.00px;
+    left: 79.00px;
+    top: 223.00px;
+}
+
+.x11 .iconMaterialEvent {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(239, 102, 49, 1);
+    width: 28.00px;
+    height: 28.00px;
+    left: 33.00px;
+    top: 353.00px;
+}
+
+.x11 .event {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 21.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 52.00px;
+    height: 28.00px;
+    left: 79.00px;
+    top: 353.00px;
+}
+
+.x11 .iconMaterialContacts {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(239, 102, 49, 1);
+    width: 28.00px;
+    height: 28.00px;
+    left: 33.50px;
+    top: 483.50px;
+}
+
+.x11 .contact {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 21.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 74.00px;
+    height: 28.00px;
+    left: 78.00px;
+    top: 483.00px;
+}
+
+.x11 .iconAwesomePortrait {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(239, 102, 49, 1);
+    width: 28.00px;
+    height: 28.00px;
+    left: 33.00px;
+    top: 418.00px;
+}
+
+.x11 .portfolio {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 21.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 83.00px;
+    height: 28.00px;
+    left: 78.00px;
+    top: 418.00px;
+}
+
+.x11 .rectangle81 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/rectangle81.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 226.00px;
+    height: 58.00px;
+    left: 0.00px;
+    top: 270.00px;
+}
+
+.x11 .iconIonicMdPeople {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(239, 102, 49, 1);
+    width: 28.00px;
+    height: 28.00px;
+    left: 36.00px;
+    top: 288.00px;
+}
+
+.x11 .people16a0e7b1 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 21.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 65.00px;
+    height: 28.00px;
+    left: 82.00px;
+    top: 288.00px;
+}
+
+.x11 .line40 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(239, 102, 49, 1);
+    stroke-width: 4.00px;
+    stroke-linecap: butt;
+    width: 4.00px;
+    height: 58.00px;
+    left: -0.50px;
+    top: 270.50px;
+}
+
+.x11 .group68 {
+    display: block;
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    overflow-x: unset;
+    overflow-y: unset;
+    background-color: transparent;
+    width: 28.00px;
+    height: 29.00px;
+    left: 36.00px;
+    top: 707.00px;
+}
+
+.x11 .group68 .component21 {
+    display: block;
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    overflow-x: unset;
+    overflow-y: unset;
+    background-color: transparent;
+    width: 28.00px;
+    height: 26.00px;
+    left: 0.00px;
+    top: 3.00px;
+}
+
+.x11 .support {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 21.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 77.00px;
+    height: 28.00px;
+    left: 76.00px;
+    top: 707.00px;
+}
+
+.x11 .rectangle82 {
+    position: absolute;
+    box-sizing: border-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-style: solid;
+    border-bottom-width: 0.30px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-style: solid;
+    border-left-width: 0.30px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-style: solid;
+    border-right-width: 0.30px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-style: solid;
+    border-top-width: 0.30px;
+    width: 589.00px;
+    height: 53.00px;
+    left: 240.00px;
+    top: 17.00px;
+}
+
+.x11 .iconIonicIosSearchd28c03a8 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 27.00px;
+    height: 27.01px;
+    left: 785.00px;
+    top: 30.00px;
+}
+
+.x11 .x9thJun2020 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 25.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 152.00px;
+    height: 33.00px;
+    left: 1050.00px;
+    top: 27.00px;
+}
+
+.x11 .people {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 39.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 120.00px;
+    height: 52.00px;
+    left: 242.00px;
+    top: 104.00px;
+}
+
+.x11 .all {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 20.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 24.00px;
+    height: 27.00px;
+    left: 331.00px;
+    top: 195.00px;
+}
+
+.x11 .clubs {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 20.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 50.00px;
+    height: 27.00px;
+    left: 397.00px;
+    top: 193.00px;
+}
+
+.x11 .line41 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(239, 102, 49, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 43.00px;
+    height: 3.00px;
+    left: 322.50px;
+    top: 226.00px;
+}
+
+.x11 .group69 {
+    display: block;
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    overflow-x: unset;
+    overflow-y: unset;
+    background-color: transparent;
+    width: 238.00px;
+    height: 47.00px;
+    left: 910.00px;
+    top: 162.00px;
+}
+
+.x11 .group69 .rectangle83 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(248, 248, 248, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 238.00px;
+    height: 47.00px;
+    left: 0.00px;
+    top: 0.00px;
+}
+
+.x11 .group69 .searchByName {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.33000001311302185;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 15.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 108.00px;
+    height: 20.00px;
+    left: 7.00px;
+    top: 14.00px;
+}
+
+.x11 .group69 .iconIonicIosSearch {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.3799999952316284;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 27.00px;
+    height: 27.01px;
+    left: 204.00px;
+    top: 10.00px;
+}
+
+.x11 .rectangle84 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.9599999785423279;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 226.00px;
+    left: 327.00px;
+    top: 325.00px;
+}
+
+.x11 .rectangle85 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.6899999976158142;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 226.00px;
+    left: 327.00px;
+    top: 594.00px;
+}
+
+.x11 .rectangle86 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.9100000262260437;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    -webkit-filter: drop-shadow(5px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(5px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
+    width: 216.00px;
+    height: 226.00px;
+    left: 619.00px;
+    top: 325.00px;
+}
+
+.x11 .rectangle87 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.6899999976158142;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 226.00px;
+    left: 619.00px;
+    top: 594.00px;
+}
+
+.x11 .rectangle88 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.6899999976158142;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 226.00px;
+    left: 906.00px;
+    top: 325.00px;
+}
+
+.x11 .rectangle89 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.6899999976158142;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 226.00px;
+    left: 911.00px;
+    top: 594.00px;
+}
+
+.x11 .group70 {
+    display: block;
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    overflow-x: unset;
+    overflow-y: unset;
+    background-color: transparent;
+    width: 94.00px;
+    height: 31.00px;
+    left: 339.00px;
+    top: 257.00px;
+}
+
+.x11 .group70 .rectangle908b8ec8cd {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.5299999713897705;
+    cursor: default;
+    background-color: rgba(255, 71, 0, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 8.00px;
+    border-top-right-radius: 8.00px;
+    border-bottom-left-radius: 8.00px;
+    border-bottom-right-radius: 8.00px;
+    width: 94.00px;
+    height: 31.00px;
+    left: 0.00px;
+    top: 0.00px;
+}
+
+.x11 .group70 .coords {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 41.00px;
+    height: 17.00px;
+    left: 27.00px;
+    top: 7.00px;
+}
+
+.x11 .line42 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 0.50px;
+    stroke-linecap: butt;
+    width: 798.00px;
+    height: 0.50px;
+    left: 365.50px;
+    top: 225.25px;
+}
+
+.x11 .rectangle90 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 8.00px;
+    border-top-right-radius: 8.00px;
+    border-bottom-left-radius: 8.00px;
+    border-bottom-right-radius: 8.00px;
+    width: 103.00px;
+    height: 31.00px;
+    left: 447.00px;
+    top: 257.00px;
+}
+
+.x11 .subCoords {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 68.00px;
+    height: 17.00px;
+    left: 466.00px;
+    top: 264.00px;
+}
+
+.x11 .ellipse16ed5ea3ec {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 50.00px;
+    height: 50.00px;
+    left: 387.00px;
+    top: 339.00px;
+}
+
+.x11 .henryPaulistaff00df23 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 85.00px;
+    height: 17.00px;
+    left: 394.00px;
+    top: 444.00px;
+}
+
+.x11 .henrypaulistab982bc3f {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.27000001072883606;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 106.00px;
+    height: 12.00px;
+    left: 387.00px;
+    top: 461.00px;
+}
+
+.x11 .rectangle91 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.49000000953674316;
+    cursor: default;
+    background-color: rgba(247, 247, 247, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 46.00px;
+    left: 327.00px;
+    top: 505.00px;
+}
+
+.x11 .rectangle92 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.800000011920929;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 405.00px;
+    top: 486.00px;
+}
+
+.x11 .rectangle93 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.75;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 429.00px;
+    top: 486.00px;
+}
+
+.x11 .rectangle94 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.5400000214576721;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 453.00px;
+    top: 486.00px;
+}
+
+.x11 .overallCoordinator {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 116.00px;
+    height: 17.00px;
+    left: 378.00px;
+    top: 520.00px;
+}
+
+.x11 .ellipse167c9276e5 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 97.00px;
+    height: 97.00px;
+    left: 387.00px;
+    top: 608.00px;
+}
+
+.x11 .pabloSoriano {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 82.00px;
+    height: 17.00px;
+    left: 395.00px;
+    top: 709.00px;
+}
+
+.x11 .henrypaulistabeba59d1 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.27000001072883606;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 106.00px;
+    height: 12.00px;
+    left: 387.00px;
+    top: 730.00px;
+}
+
+.x11 .rectangle95 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.49000000953674316;
+    cursor: default;
+    background-color: rgba(247, 247, 247, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 46.00px;
+    left: 327.00px;
+    top: 774.00px;
+}
+
+.x11 .rectangle96 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.800000011920929;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 405.00px;
+    top: 755.00px;
+}
+
+.x11 .rectangle97 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.75;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 429.00px;
+    top: 755.00px;
+}
+
+.x11 .rectangle98 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.5400000214576721;
+    cursor: default;
+    background-color: transparent;
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 453.00px;
+    top: 755.00px;
+}
+
+.x11 .mlCoordinator {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 93.00px;
+    height: 17.00px;
+    left: 389.00px;
+    top: 789.00px;
+}
+
+.x11 .ellipse160c3ea8ce {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 97.00px;
+    height: 97.00px;
+    left: 679.00px;
+    top: 338.00px;
+}
+
+.x11 .karinaa7d9aeb8 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 41.00px;
+    height: 17.00px;
+    left: 711.00px;
+    top: 444.00px;
+}
+
+.x11 .karina673dac80 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.27000001072883606;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 76.00px;
+    height: 12.00px;
+    left: 695.00px;
+    top: 461.00px;
+}
+
+.x11 .rectangle99 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.49000000953674316;
+    cursor: default;
+    background-color: rgba(247, 247, 247, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 46.00px;
+    left: 619.00px;
+    top: 504.00px;
+}
+
+.x11 .rectangle100 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.800000011920929;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 697.00px;
+    top: 485.00px;
+}
+
+.x11 .rectangle101 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.75;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 721.00px;
+    top: 485.00px;
+}
+
+.x11 .rectangle102 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/rectangle102.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5400000214576721;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 745.00px;
+    top: 485.00px;
+}
+
+.x11 .cpCoordinator4bd63d57 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 91.00px;
+    height: 17.00px;
+    left: 688.00px;
+    top: 515.00px;
+}
+
+.x11 .ellipse16cbe418c4 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 97.00px;
+    height: 97.00px;
+    left: 966.00px;
+    top: 341.00px;
+}
+
+.x11 .sanderKim {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 66.00px;
+    height: 17.00px;
+    left: 986.00px;
+    top: 444.00px;
+}
+
+.x11 .sander {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.27000001072883606;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 78.00px;
+    height: 12.00px;
+    left: 984.00px;
+    top: 461.00px;
+}
+
+.x11 .rectangle103 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.49000000953674316;
+    cursor: default;
+    background-color: rgba(247, 247, 247, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 46.00px;
+    left: 906.00px;
+    top: 507.00px;
+}
+
+.x11 .rectangle104 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.800000011920929;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 984.00px;
+    top: 488.00px;
+}
+
+.x11 .rectangle105 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.75;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 1008.00px;
+    top: 488.00px;
+}
+
+.x11 .rectangle106 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("assets/rectangle106.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5400000214576721;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 1032.00px;
+    top: 488.00px;
+}
+
+.x11 .devCoordinator {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 97.00px;
+    height: 17.00px;
+    left: 971.00px;
+    top: 522.00px;
+}
+
+.x11 .ellipse1652935d2b {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 97.00px;
+    height: 97.00px;
+    left: 680.00px;
+    top: 610.00px;
+}
+
+.x11 .ericbda2c99c {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 21.00px;
+    height: 17.00px;
+    left: 720.00px;
+    top: 709.00px;
+}
+
+.x11 .eric {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.27000001072883606;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 66.00px;
+    height: 12.00px;
+    left: 702.00px;
+    top: 732.00px;
+}
+
+.x11 .rectangle107 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.49000000953674316;
+    cursor: default;
+    background-color: rgba(247, 247, 247, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 46.00px;
+    left: 620.00px;
+    top: 776.00px;
+}
+
+.x11 .rectangle108 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.800000011920929;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 698.00px;
+    top: 757.00px;
+}
+
+.x11 .rectangle109 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.75;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 722.00px;
+    top: 757.00px;
+}
+
+.x11 .rectangle110 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.5400000214576721;
+    cursor: default;
+    background-color: transparent;
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 746.00px;
+    top: 757.00px;
+}
+
+.x11 .designCoordinator {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 115.00px;
+    height: 17.00px;
+    left: 678.00px;
+    top: 789.00px;
+}
+
+.x11 .ellipse169ee4d306 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 97.00px;
+    height: 97.00px;
+    left: 972.00px;
+    top: 603.00px;
+}
+
+.x11 .henryPaulista {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 85.00px;
+    height: 17.00px;
+    left: 983.00px;
+    top: 702.00px;
+}
+
+.x11 .henrypaulista {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.27000001072883606;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 106.00px;
+    height: 12.00px;
+    left: 972.00px;
+    top: 725.00px;
+}
+
+.x11 .rectangle111 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.49000000953674316;
+    cursor: default;
+    background-color: rgba(247, 247, 247, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    width: 216.00px;
+    height: 46.00px;
+    left: 912.00px;
+    top: 769.00px;
+}
+
+.x11 .rectangle112 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.800000011920929;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 990.00px;
+    top: 750.00px;
+}
+
+.x11 .rectangle113 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.75;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 1014.00px;
+    top: 750.00px;
+}
+
+.x11 .rectangle114 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 0.5400000214576721;
+    cursor: default;
+    background-color: rgba(239, 102, 49, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 5.00px;
+    border-top-right-radius: 5.00px;
+    border-bottom-left-radius: 5.00px;
+    border-bottom-right-radius: 5.00px;
+    width: 22.00px;
+    height: 4.00px;
+    left: 1038.00px;
+    top: 750.00px;
+}
+
+.x11 .webCoordinator {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 13.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 102.00px;
+    height: 17.00px;
+    left: 972.00px;
+    top: 784.00px;
+}
+
+.x11 .ellipse17 {
+    position: absolute;
+    box-sizing: border-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: transparent;
+    stroke: rgba(243, 140, 100, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 103.00px;
+    height: 103.00px;
+    left: 676.00px;
+    top: 335.00px;
+}
+
+.x11 .overall {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 23.00px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 71.00px;
+    height: 31.00px;
+    left: 1257.00px;
+    top: 130.00px;
+}
+
+.x11 .cpCoordinator {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 33.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 230.00px;
+    height: 44.00px;
+    left: 1257.00px;
+    top: 161.00px;
+}
+
+.x11 .line43 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 0.50px;
+    stroke-linecap: butt;
+    width: 259.00px;
+    height: 0.50px;
+    left: 1242.50px;
+    top: 222.25px;
+}
+
+.x11 .iconIonicIosSettings {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(239, 102, 49, 1);
+    width: 27.00px;
+    height: 27.01px;
+    left: 1476.00px;
+    top: 16.00px;
+}
+
+.x11 .ellipse19 {
+    position: absolute;
+    box-sizing: border-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(112, 112, 112, 1);
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 5.00px;
+    height: 5.00px;
+    left: 530.00px;
+    top: 338.00px;
+}
+
+.x11 .ellipse20 {
+    position: absolute;
+    box-sizing: border-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(112, 112, 112, 1);
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1.00px;
+    stroke-linecap: butt;
+    width: 5.00px;
+    height: 5.00px;
+    left: 530.00px;
+    top: 345.00px;
+}
+
+.x11 .ellipse16 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(255, 255, 255, 0);
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 97.00px;
+    height: 97.00px;
+    left: 1324.00px;
+    top: 257.00px;
+}
+
+.x11 .ellipse24 {
+    position: absolute;
+    box-sizing: border-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: transparent;
+    stroke: rgba(243, 140, 100, 1);
+    stroke-width: 3.00px;
+    stroke-linecap: butt;
+    width: 103.00px;
+    height: 103.00px;
+    left: 1321.00px;
+    top: 254.00px;
+}
+
+.x11 .karina {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 25.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 79.00px;
+    height: 33.00px;
+    left: 1337.00px;
+    top: 361.00px;
+}
+
+.x11 .projects {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 30.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 108.00px;
+    height: 40.00px;
+    left: 1260.00px;
+    top: 426.00px;
+}
+
+.x11 .rectangle115 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(236, 236, 236, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 18.00px;
+    border-top-right-radius: 18.00px;
+    border-bottom-left-radius: 18.00px;
+    border-bottom-right-radius: 18.00px;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 104.00px;
+    height: 79.00px;
+    left: 1260.00px;
+    top: 491.00px;
+}
+
+.x11 .rectangle116 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(236, 236, 236, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 18.00px;
+    border-top-right-radius: 18.00px;
+    border-bottom-left-radius: 18.00px;
+    border-bottom-right-radius: 18.00px;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 104.00px;
+    height: 79.00px;
+    left: 1393.00px;
+    top: 491.00px;
+}
+
+.x11 .rectangle118 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(236, 236, 236, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 18.00px;
+    border-top-right-radius: 18.00px;
+    border-bottom-left-radius: 18.00px;
+    border-bottom-right-radius: 18.00px;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 104.00px;
+    height: 79.00px;
+    left: 1260.00px;
+    top: 604.00px;
+}
+
+.x11 .rectangle119 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(236, 236, 236, 1);
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-width: 1.00px;
+    border-top-left-radius: 18.00px;
+    border-top-right-radius: 18.00px;
+    border-bottom-left-radius: 18.00px;
+    border-bottom-right-radius: 18.00px;
+    -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    width: 104.00px;
+    height: 79.00px;
+    left: 1393.00px;
+    top: 604.00px;
+}
+
+.x11 .total {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 12.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 26.00px;
+    height: 16.00px;
+    left: 1299.00px;
+    top: 501.00px;
+}
+
+.x11 .line44 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(255, 102, 0, 1);
+    stroke-width: 2.00px;
+    stroke-linecap: butt;
+    width: 2.00px;
+    height: 30.00px;
+    left: 1282.50px;
+    top: 527.50px;
+}
+
+.x11 .x38 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 37.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 41.00px;
+    height: 49.00px;
+    left: 1297.00px;
+    top: 515.00px;
+}
+
+.x11 .completed {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 12.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 60.00px;
+    height: 16.00px;
+    left: 1411.00px;
+    top: 501.00px;
+}
+
+.x11 .line45 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(137, 55, 0, 1);
+    stroke-width: 2.00px;
+    stroke-linecap: butt;
+    width: 2.00px;
+    height: 30.00px;
+    left: 1412.50px;
+    top: 527.50px;
+}
+
+.x11 .x34 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 37.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 42.00px;
+    height: 49.00px;
+    left: 1430.00px;
+    top: 515.00px;
+}
+
+.x11 .ongoing {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 12.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 48.00px;
+    height: 16.00px;
+    left: 1288.00px;
+    top: 612.00px;
+}
+
+.x11 .line46 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(37, 60, 10, 0.8);
+    stroke-width: 2.00px;
+    stroke-linecap: butt;
+    width: 2.00px;
+    height: 30.00px;
+    left: 1282.50px;
+    top: 637.50px;
+}
+
+.x11 .x04 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 37.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 42.00px;
+    height: 49.00px;
+    left: 1294.00px;
+    top: 626.00px;
+}
+
+.x11 .pending {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 12.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 45.00px;
+    height: 16.00px;
+    left: 1423.00px;
+    top: 612.00px;
+}
+
+.x11 .line47 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    stroke: rgba(56, 19, 236, 1);
+    stroke-width: 2.00px;
+    stroke-linecap: butt;
+    width: 2.00px;
+    height: 30.00px;
+    left: 1418.50px;
+    top: 639.50px;
+}
+
+.x11 .x00 {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 37.00px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Segoe UI', Arial;
+    white-space: pre;
+    width: 41.00px;
+    height: 49.00px;
+    left: 1430.00px;
+    top: 628.00px;
+}
+
+.x11 .iconAwesomeGithub {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 34.00px;
+    height: 34.00px;
+    left: 1366.00px;
+    top: 757.00px;
+}
+
+.x11 .iconAwesomeLinkedin {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 34.00px;
+    height: 34.00px;
+    left: 1307.00px;
+    top: 759.00px;
+}
+
+.x11 .iconSimpleEmail {
+    position: absolute;
+    box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    opacity: 1;
+    cursor: default;
+    fill: rgba(0, 0, 0, 1);
+    width: 34.00px;
+    height: 34.00px;
+    left: 1425.00px;
+    top: 759.00px;
+}
